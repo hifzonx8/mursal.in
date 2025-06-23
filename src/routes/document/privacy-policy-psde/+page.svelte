@@ -23,11 +23,12 @@
   </p>
   <h2 class="text-2xl m-2 font-bold">2. Third Party Services</h2>
   <p class="my-2 ml-5">
-    The app integrates with Firebase, a third-party service provided by Google,
-    which may automatically collect limited non-personal data such as device
-    type, app version, or crash diagnostics. This data is used to improve app
-    stability and performance and is not used by us to identify or track users.
-    We do not store, access, or share any personal information ourselves.
+    The webpage displayed by the app's webview integrates with Firebase, a
+    third-party service provided by Google, which may automatically collect
+    limited non-personal data such as device type, app version, or crash
+    diagnostics. This data is used to improve app stability and performance and
+    is not used by us to identify or track users. We do not store, access, or
+    share any personal information ourselves.
   </p>
   <h2 class="text-2xl m-2 font-bold">3. Children Privacy</h2>
   <p class="my-2 ml-5">
