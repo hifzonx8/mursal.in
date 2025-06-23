@@ -53,7 +53,7 @@
     Email:
     <a
       class="underline text-gray-300 hover:text-gray-400"
-      href="mailto:hifzonm@tuta.io">hifzonm@tuta.io</a
+      href="mailto:dev.rikraken@gmail.com">dev.rikraken@gmail.com</a
     >
   </p>
 </div>
