@@ -1,9 +1,10 @@
 <div class="p-2 w-1/2">
   <h1 class="text-6xl pb-5 select-none">privacy policy</h1>
   <p class="m-2">
-    Dapoer Emas ("we", "our", "us") is a mobile application which primarily
-    functions as a WebView wrapper for displaying web content fully controlled
-    by us.
+    Effective Date: 24 June 2025
+    <br /> <br />
+    Dapoer Emas ("we", "our", "us") is a mobile application which primarily functions
+    as a WebView wrapper for displaying web content fully controlled by us.
   </p>
   <h2 class="text-2xl m-2 font-bold">1. Information We Collect</h2>
   <p class="my-2 ml-5">
