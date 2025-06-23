@@ -22,8 +22,6 @@
       href: "/links",
     },
   ];
-
-  console.log();
 </script>
 
 <div class="min-h-screen w-full bg-neutral-900 text-white">
